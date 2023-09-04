@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+body{
+    background-image:url('/assets/background_png.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+/*make the login display center*/
+.center-div{
+    padding-top:10%;
+}
+
+.container.w-25.border.py-5{
+    background-color: white;
+    opacity: 95%;
+    border-radius: 25px;
+    
+}
+
+.btn.btn-success{
+    padding:.4em 2em;
+    margin-top: 20px;
+}
+
+form{
+    padding:0.3em;
+}
+
+#login .title>span{
+    font-size:.8em;
+}
